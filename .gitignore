@@ -162,9 +162,9 @@ Thumbs.db
 *.pkl
 *.h5
 *.joblib
-data/
+# data/
 models/
-reports/
+# reports/
 !reports/.gitkeep
 !data/.gitkeep
 !models/.gitkeep
